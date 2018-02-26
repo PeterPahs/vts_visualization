@@ -1,2 +1,3 @@
 # vts_visualization
-simple Qt widget for ploting HRLE LevelSet Data Structure
+simple Qt widget for ploting HRLE LevelSet Data Structure.
+very early stage
